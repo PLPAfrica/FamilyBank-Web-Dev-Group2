@@ -1,4 +1,4 @@
-# This is a betting website made with NextJs
+# This is a betting website made with NextJs and Sanity
 
 ### Participants
 
